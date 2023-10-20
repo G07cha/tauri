@@ -1,5 +1,23 @@
 # Changelog
 
+## \[2.0.0-alpha.17]
+
+### Enhancements
+
+- [`c6c59cf2`](https://www.github.com/tauri-apps/tauri/commit/c6c59cf2373258b626b00a26f4de4331765dd487) Pull changes from Tauri 1.5 release.
+
+### Bug Fixes
+
+- [`22f26882`](https://www.github.com/tauri-apps/tauri/commit/22f26882cfe0adbfe4c51586a1c9fdcf8e9cfb68)([#8049](https://www.github.com/tauri-apps/tauri/pull/8049)) Prevent crash on iOS when the Swift plugin data is not a valid JSON string.
+
+### Dependencies
+
+- Upgraded to `tauri-build@2.0.0-alpha.11`
+- Upgraded to `tauri-macros@2.0.0-alpha.10`
+- Upgraded to `tauri-utils@2.0.0-alpha.10`
+- Upgraded to `tauri-runtime@1.0.0-alpha.4`
+- Upgraded to `tauri-runtime-wry@1.0.0-alpha.5`
+
 ## \[2.0.0-alpha.16]
 
 ### New Features

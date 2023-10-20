@@ -1,5 +1,16 @@
 # Changelog
 
+## \[1.0.0-alpha.5]
+
+### Enhancements
+
+- [`c6c59cf2`](https://www.github.com/tauri-apps/tauri/commit/c6c59cf2373258b626b00a26f4de4331765dd487) Pull changes from Tauri 1.5 release.
+
+### Dependencies
+
+- Upgraded to `tauri-utils@2.0.0-alpha.10`
+- Upgraded to `tauri-runtime@1.0.0-alpha.4`
+
 ## \[1.0.0-alpha.4]
 
 ### New Features
